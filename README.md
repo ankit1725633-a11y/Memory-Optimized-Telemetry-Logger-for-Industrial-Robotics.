@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Compiler](https://img.shields.io/badge/Compiler-GCC-green.svg)
 ![Domain](https://img.shields.io/badge/Domain-Embedded%20Systems-orange.svg)
