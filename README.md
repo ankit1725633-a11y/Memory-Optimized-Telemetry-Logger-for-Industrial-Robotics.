@@ -87,5 +87,6 @@ typedef struct {
     int status;
 } TelemetryLog;
 
-## 🔁 Circular Buffer Logic (Core Concept)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64a4b984-87cb-4462-a58c-b1487c555859" />
+
 
