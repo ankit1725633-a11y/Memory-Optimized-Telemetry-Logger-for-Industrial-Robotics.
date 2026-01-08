@@ -86,3 +86,4 @@ typedef struct {
     float temperature;
     int status;
 } TelemetryLog;
+🔁 Circular Buffer Logic (Core Concept)
