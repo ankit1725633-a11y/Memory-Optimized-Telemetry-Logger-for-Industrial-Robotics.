@@ -59,9 +59,7 @@ typedef struct {
     float temperature;
     int status;
 } TelemetryLog;
-Each struct represents one snapshot of robot state
 
-Stored inside a circular buffer
 
 ##🔁 Circular Buffer Logic (Core Concept)
 index = (index + 1) % MAX_LOGS;
